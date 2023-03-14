@@ -1,4 +1,3 @@
-# projeto-turma-a
-ADS 2023
+# Evandro Figueiredo
 
 ...
